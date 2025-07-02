@@ -58,7 +58,7 @@ menos escreva "Seu nome é curto"; se tiver entre 5 e 6 letras, escreva
 nome = input('Digite seu primeiro nome: ')
 # if len(nome) > 6:
 #   print('Seu nome é muito grande!')
-# elif len(nome) >4:
+# elif len(nome) > 4:
 #   print('Seu nome é normal!')
 # else:
 #   print('Seu nome é curto!')
